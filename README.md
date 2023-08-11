@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors
-Simple Rock, Paper, or Scissors.
+Simple game Rock, Paper, or Scissors.
+https://dimawebfrontend.github.io/Rock-Paper-Scissors/
